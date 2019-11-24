@@ -1,7 +1,6 @@
 /*-----------------------
     COLOR
 ------------------------*/
-
 .white,
 .white h1,
 .white h2,
@@ -19,7 +18,10 @@
 .red h5,
 .red h6,
 .red a,
-.red small,
+.red small {
+  color: #ffffff;
+}
+
 .black,
 .black h1,
 .black h2,
@@ -29,5 +31,5 @@
 .black h6,
 .black a,
 .black small {
-    color: #ffffff;
+  color: #333;
 }
